@@ -4,7 +4,7 @@
 
 ## Sobre Mí
 
-Desarrollador especializado en **Rust**, enfocado en ciberseguridad, infraestructura y tecnologías Web3.
+Desarrollador especializado en **TypeScript** y **Rust**, enfocado en ciberseguridad, infraestructura y tecnologías Web3.
 
 Actualmente construyo herramientas de análisis y auditoría para protocolos blockchain, aplicaciones de alto rendimiento con Rust y Tauri, y productos tecnológicos orientados a resolver problemas reales mediante software seguro y escalable.
 
