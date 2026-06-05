@@ -12,22 +12,8 @@ Actualmente construyo herramientas de análisis y auditoría para protocolos blo
 
 ## Tecnologías
 
-### Core Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,typescript,javascript,react,solidity,tauri,html,css,emotion,gsap" />
-</p>
-
-### Backend & Infrastructure
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,docker,nginx,linux" />
-</p>
-
-### Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=rust,solidity,typescript,react,tauri,nodejs,mongodb,mysql,docker,nginx,linux,git,github,vscode,html,css,javascript,emotion" />
 </p>
 
 <br />
