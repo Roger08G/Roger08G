@@ -2,6 +2,14 @@
 
 <br />
 
+## Tecnologias
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rust,solidity,typescript,react,tauri,nodejs,git,github,vscode,linux" />
+</p>
+
+<br />
+
 ## Mis Articulos
 
 - Blockchain
