@@ -5,7 +5,7 @@
 ## Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,solidity,typescript,react,tauri,nodejs,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=rust,solidity,typescript,javascript,react,html,css,nodejs,tauri,mongodb,mysql,docker,nginx,github,vscode,linux" />
 </p>
 
 <br />
