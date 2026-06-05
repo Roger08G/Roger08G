@@ -39,7 +39,7 @@ Actualmente construyo herramientas de análisis y auditoría para protocolos blo
 
 <table>
 	<tr>
-		<td align="center" width="50%">
+		<td align="center" width="50%" max-width="320px">
 			<h3>Cómo un solo missing check rompió TODO un Sistema de Sanciones en DeFi</h3>
 			<img src="./assets/article-1.png" alt="Artículo 1" width="100%" />
 			<br /><br />
