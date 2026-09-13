@@ -29,7 +29,7 @@ Actualmente construyo herramientas de análisis y auditoría para protocolos blo
 			<h3>Cómo un solo missing check rompió TODO un Sistema de Sanciones en DeFi</h3>
 			<img src="./assets/article-1.png" alt="Artículo 1" width="100%" />
 			<br /><br />
-			<a href="#">
+			<a href="https://rogergomezm.dev/articles?article=missing-check-defi">
 				<img src="https://img.shields.io/badge/READ_ARTICLE-8B5CF6?style=for-the-badge&logo=readme&logoColor=white" alt="Read Article" />
 			</a>
 			<br /><br />
@@ -41,7 +41,7 @@ Actualmente construyo herramientas de análisis y auditoría para protocolos blo
 			<h3>Un simple transfer() puede romper toda una lógica de renovación en DeFi</h3>
 			<img src="./assets/article-2.png" alt="Artículo 2" width="100%" />
 			<br /><br />
-			<a href="#">
+			<a href="https://rogergomezm.dev/articles?article=transfer-refund-dos">
 				<img src="https://img.shields.io/badge/READ_ARTICLE-8B5CF6?style=for-the-badge&logo=readme&logoColor=white" alt="Read Article" />
 			</a>
 			<br /><br />
