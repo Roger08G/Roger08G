@@ -6,7 +6,7 @@
   <strong>Web3 Security Researcher · Rust & TypeScript</strong>
 </p>
 
-<p align="center">
+<p align="center" width="80%">
   Construyo herramientas de análisis y auditoría para protocolos blockchain,
   aplicaciones de alto rendimiento y productos seguros y escalables.
 </p>
@@ -28,25 +28,25 @@ En este [artículo](https://rogergomezm.dev/articles?article=blockchain) aprende
 <table>
 	<tr width="100%">
 		<td align="center" width="50%">
-			<h3>Blacklist bypass por un missing check</h3>
+			<h4>Blacklist bypass por un missing check</h4>
 			<img src="./assets/article-1.png" alt="Artículo 1" width="100%" />
 			<br />
 			<a href="https://rogergomezm.dev/articles?article=missing-check-defi">
 				<img src="https://img.shields.io/badge/READ_ARTICLE-8B5CF6?style=for-the-badge&logo=readme&logoColor=white" alt="LEER ARTÍCULO" />
 			</a>
-			<br />
+			<br /><br />
 			<p>
 				Vulnerabilidad en la lógica de cooldown que permitía a usuarios restringidos retirar fondos desde estados no protegidos por la blacklist.
 			</p>
 		</td>
 		<td align="center" width="50%">
-			<h3>DoS en renovaciones provocado por transfer()</h3>
+			<h4>DoS en renovaciones provocado por transfer()</h4>
 			<img src="./assets/article-2.png" alt="Artículo 2" width="100%" />
 			<br />
 			<a href="https://rogergomezm.dev/articles?article=transfer-refund-dos">
 				<img src="https://img.shields.io/badge/READ_ARTICLE-8B5CF6?style=for-the-badge&logo=readme&logoColor=white" alt="LEER ARTÍCULO" />
 			</a>
-			<br />
+			<br /><br />
 			<p>
 				Cómo un reembolso de ETH con gas fijo puede provocar un DoS silencioso y revertir por completo un lote de renovaciones.
 			</p>
