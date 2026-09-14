@@ -1,52 +1,54 @@
-<img src="./assets/banner.png" alt="banner" width="100%" />
+<img src="./assets/banner-2.png" alt="banner" width="100%" />
 
 <br />
-
-## Sobre Mí
-
-Desarrollador especializado en **TypeScript** y **Rust**, enfocado en ciberseguridad, infraestructura y tecnologías Web3.
-
-Actualmente construyo herramientas de análisis y auditoría para protocolos blockchain, aplicaciones de alto rendimiento con Rust y Tauri, y productos tecnológicos orientados a resolver problemas reales mediante software seguro y escalable.
-
-<br />
-
-## Tecnologías
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,solidity,typescript,react,tauri,nodejs,mongodb,mysql,docker,nginx,linux,git,github,vscode,html,css,javascript,emotion" />
+  <strong>Web3 Security Researcher · Rust & TypeScript</strong>
 </p>
 
-<br />
+<p align="center">
+  Construyo herramientas de análisis y auditoría para protocolos blockchain,
+  aplicaciones de alto rendimiento y productos seguros y escalables.
+</p>
 
-## Mis Artículos
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rust,solidity,ts,react,tauri,nodejs,docker,linux,git,github" />
+</p>
 
-* Blockchain
-* SMTP
+## Artículos
+
+### ¿Qué es una Blockchain?
+
+En este [artículo](https://rogergomezm.dev/articles?article=blockchain) aprenderás qué es y cómo funciona una blockchain.
+
+[![Introducción a blockchain](./assets/blockchain.png)](https://rogergomezm.dev/articles?article=blockchain)
+
+### Artículos de Seguridad
 
 <table>
-	<tr>
-		<td align="center" width="50%" max-width="320px">
-			<h3>Cómo un solo missing check rompió TODO un Sistema de Sanciones en DeFi</h3>
+	<tr width="100%">
+		<td align="center" width="50%">
+			<h3>Blacklist bypass por un missing check</h3>
 			<img src="./assets/article-1.png" alt="Artículo 1" width="100%" />
-			<br /><br />
+			<br />
 			<a href="https://rogergomezm.dev/articles?article=missing-check-defi">
-				<img src="https://img.shields.io/badge/READ_ARTICLE-8B5CF6?style=for-the-badge&logo=readme&logoColor=white" alt="Read Article" />
+				<img src="https://img.shields.io/badge/READ_ARTICLE-8B5CF6?style=for-the-badge&logo=readme&logoColor=white" alt="LEER ARTÍCULO" />
 			</a>
-			<br /><br />
+			<br />
 			<p>
-				Un análisis técnico de una vulnerabilidad en lógica de cooldown que permitía a usuarios restringidos retirar fondos desde estados intermedios no protegidos por el sistema de blacklist.
+				Vulnerabilidad en la lógica de cooldown que permitía a usuarios restringidos retirar fondos desde estados no protegidos por la blacklist.
 			</p>
 		</td>
 		<td align="center" width="50%">
-			<h3>Un simple transfer() puede romper toda una lógica de renovación en DeFi</h3>
+			<h3>DoS en renovaciones provocado por transfer()</h3>
 			<img src="./assets/article-2.png" alt="Artículo 2" width="100%" />
-			<br /><br />
+			<br />
 			<a href="https://rogergomezm.dev/articles?article=transfer-refund-dos">
-				<img src="https://img.shields.io/badge/READ_ARTICLE-8B5CF6?style=for-the-badge&logo=readme&logoColor=white" alt="Read Article" />
+				<img src="https://img.shields.io/badge/READ_ARTICLE-8B5CF6?style=for-the-badge&logo=readme&logoColor=white" alt="LEER ARTÍCULO" />
 			</a>
-			<br /><br />
+			<br />
 			<p>
-				Un análisis técnico sobre cómo una decisión aparentemente inocente en el manejo de ETH puede provocar un DoS silencioso en sistemas críticos de renovación en cadena.
+				Cómo un reembolso de ETH con gas fijo puede provocar un DoS silencioso y revertir por completo un lote de renovaciones.
 			</p>
 		</td>
 	</tr>
