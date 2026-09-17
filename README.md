@@ -28,7 +28,7 @@
 
 # 📖 Artículos
 
-## ¿Qué es una Blockchain?
+<h2>¿Qué es una Blockchain?</h2>
 
 En este [artículo](https://rogergomezm.dev/articles?article=blockchain) aprenderás qué es y cómo funciona una blockchain.
 
