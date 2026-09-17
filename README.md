@@ -3,7 +3,7 @@
 <br />
 
 <p align="center">
-  <strong>Web3 Security Researcher · Rust & TypeScript</strong>
+  <strong>Web3 Security Researcher · Rust & TypeScript Developer</strong>
 </p>
 
 <p align="center" width="60%">
