@@ -18,9 +18,11 @@
 ## 🐞 BugBounty
 
 <table width="100%">
-	<tr><th>Report</th><th>Language</th><th>Severity</th><th>Bounty</th></tr>
+	<tr><th>REPORT</th><th>LANGUAGE</th><th>SEVERITY</th><th>BOUNTY</th></tr>
 	<tr><td>StabilityPool Withdrawal via Nominal ICR Check</td><td>Solidity</td><td>🟠 Medium</td><td>Duplicate</td></tr>
 </table>
+
+<br/>
 
 ## 📖 Artículos
 
