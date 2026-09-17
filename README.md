@@ -17,9 +17,10 @@
 
 ## 🐞 BugBounty
 
-| Report | Language | Severity | Bounty |
-|---|---|---|---|
-| StabilityPool Withdrawal via Nominal ICR Check | Solidity | Medium | Duplicate |
+<table width="100%">
+	<tr><th>Report</th><th>Language</th><th>Severity</th><th>Bounty</th></tr>
+	<tr><td>StabilityPool Withdrawal via Nominal ICR Check</td><td>Solidity</td><td>Medium</td><td>Duplicate (Valid)</td></tr>
+</table>
 
 ## 📖 Artículos
 
