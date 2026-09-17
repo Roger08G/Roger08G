@@ -15,6 +15,12 @@
   <img src="https://skillicons.dev/icons?i=rust,solidity,ts,react,tauri,nodejs,docker,linux,git,github" />
 </p>
 
+## 🐞 BugBounty
+
+| Report | Language | Severity | Bounty |
+|---|---|---|---|
+| StabilityPool Withdrawal via Nominal ICR Check | Solidity | Medium | Duplicate |
+
 ## 📖 Artículos
 
 ### ¿Qué es una Blockchain?
