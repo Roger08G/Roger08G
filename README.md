@@ -20,8 +20,8 @@
 # 🐞 BugBounty
 
 <table width="100%">
-	<tr><th>REPORT</th><th>LANGUAGE</th><th>SEVERITY</th><th>BOUNTY</th></tr>
-	<tr><td>StabilityPool Withdrawal via Nominal ICR Check</td><td>Solidity</td><td>🟠 Medium</td><td>Duplicate</td></tr>
+	<tr><th>REPORT</th><th>DATE</th><th>LANGUAGE</th><th>SEVERITY</th><th>BOUNTY</th></tr>
+	<tr><td>StabilityPool Withdrawal via Nominal ICR Check</td><td>Jun 4, 2026</td><td>Solidity</td><td>🟠 Medium</td><td>Duplicate</td></tr>
 </table>
 
 <br/>
