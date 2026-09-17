@@ -15,6 +15,8 @@
   <img src="https://skillicons.dev/icons?i=rust,solidity,ts,react,tauri,nodejs,docker,linux,git,github" />
 </p>
 
+<br/>
+
 ## 🐞 BugBounty
 
 <table width="100%">
