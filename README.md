@@ -17,7 +17,7 @@
 
 <br/>
 
-## 🐞 BugBounty
+# 🐞 BugBounty
 
 <table width="100%">
 	<tr><th>REPORT</th><th>LANGUAGE</th><th>SEVERITY</th><th>BOUNTY</th></tr>
@@ -26,20 +26,20 @@
 
 <br/>
 
-## 📖 Artículos
+# 📖 Artículos
 
-### ¿Qué es una Blockchain?
+## ¿Qué es una Blockchain?
 
 En este [artículo](https://rogergomezm.dev/articles?article=blockchain) aprenderás qué es y cómo funciona una blockchain.
 
 [![Introducción a blockchain](./assets/blockchain.png)](https://rogergomezm.dev/articles?article=blockchain)
 
-### Artículos de Seguridad
+## Artículos de Seguridad
 
 <table>
 	<tr width="100%">
 		<td align="center" width="50%">
-			<h4>Blacklist bypass por un missing check</h4>
+			<h3>Blacklist bypass por un missing check</h3>
 			<img src="./assets/article-1.png" alt="Artículo 1" width="100%" />
 			<br /><br />
 			<a href="https://rogergomezm.dev/articles?article=missing-check-defi">
@@ -51,7 +51,7 @@ En este [artículo](https://rogergomezm.dev/articles?article=blockchain) aprende
 			</p>
 		</td>
 		<td align="center" width="50%">
-			<h4>DoS en renovaciones provocado por transfer()</h4>
+			<h3>DoS en renovaciones provocado por transfer()</h3>
 			<img src="./assets/article-2.png" alt="Artículo 2" width="100%" />
 			<br /><br />
 			<a href="https://rogergomezm.dev/articles?article=transfer-refund-dos">
