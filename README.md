@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,solidity,ts,react,tauri,nodejs,docker,linux,git,github" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=rust,assembly,solidity,typescript,react,tauri,docker,linux,githuby&theme=dark" alt="My Skills" />
 </p>
 
 <br/>
