@@ -22,6 +22,7 @@
 <table width="100%">
 	<tr><td>Rust SDK decodes signed feed IDs lossily, allowing valid packages to match a different feed ID</td><td>Jun 27, 2026</td><td>🦀 Solana</td><td>🟠 Medium</td><td>Rejected</td></tr>
 	<tr><td>StabilityPool Withdrawal via Nominal ICR Check</td><td>Jun 4, 2026</td><td>Solidity</td><td>🟠 Medium</td><td>Duplicate</td></tr>
+	<tr><td>Blacklist Bypass via Unprotected Cooldown Unstaking</td><td>May 15, 2026</td><td>Solidity</td><td>🔴 High</td><td>Duplicate</td></tr>
 </table>
 
 <br/>
